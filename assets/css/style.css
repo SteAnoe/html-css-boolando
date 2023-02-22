@@ -69,10 +69,6 @@ nav{
     width: 100px;
 }
 
-
-
-
-
 /* main */
 main{
     margin-top: 80px;
@@ -141,10 +137,6 @@ section{
 .card:hover .img-top {
     display: inline;
 }
-
-
-
-
 
 /* foot */
 footer{
